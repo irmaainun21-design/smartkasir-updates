@@ -1,0 +1,30 @@
+{
+ "signatures": [
+  {
+   "keyid": "6e3ab21875f686b194a5f67a3d3201411602290e3e0408785b93a0b44516229f",
+   "sig": "15b4b928fe84dd329a84cab5bf6230fd470533d2f873b60302dbe2115f7f3b199ec6dbdcaf264161bed3736827b10b42db46d5914a0c0bb7c70aeecca7678c0a"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2036-05-27T05:40:02Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "SmartKasir-5.0.1.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": {
+      "changelog": "Rilis versi 5.0.1."
+     }
+    },
+    "hashes": {
+     "sha256": "b4bbaa5f7a83f57951d222dafef00ab6ba4eb43e759497976049df8d2196468a"
+    },
+    "length": 174527847
+   }
+  },
+  "version": 4
+ }
+}
